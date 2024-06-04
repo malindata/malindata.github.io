@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://malindata.github.io/sitemap.xml
